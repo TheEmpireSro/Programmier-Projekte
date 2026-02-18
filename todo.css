@@ -1,0 +1,39 @@
+.headline {
+  text-align: center;
+  outline-style: groove;
+  outline-width: 15px;
+  outline-color: goldenrod;
+  border-radius: 25px;
+  margin: 20px;
+  background-color: black;
+  font-size: 100px;
+}
+input {
+  font-family: monospace;
+  color: goldenrod;
+  border-radius: 25px;
+  border-color: goldenrod;
+  border-style: groove;
+  border-width: 15px;
+  background-color: black;
+  font-size: 30px;
+}
+button {
+  font-family: monospace;
+  color: goldenrod;
+  background-color: black;
+  border-radius: 25px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+body {
+  font-family: monospace;
+  color: goldenrod;
+  border-radius: 25px;
+  border-color: goldenrod;
+  border-style: groove;
+  border-width: 15px;
+  font-size: 25px;
+  
+}
