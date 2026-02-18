@@ -1,39 +1,44 @@
 .headline {
   text-align: center;
-  outline-style: groove;
-  outline-width: 15px;
-  outline-color: goldenrod;
-  border-radius: 25px;
-  margin: 20px;
+  margin: 5px;
+  padding: 25px;
   background-color: black;
   font-size: 100px;
 }
 input {
   font-family: monospace;
   color: goldenrod;
-  border-radius: 25px;
   border-color: goldenrod;
   border-style: groove;
-  border-width: 15px;
+  border-width: 5px;
   background-color: black;
   font-size: 30px;
 }
 button {
   font-family: monospace;
   color: goldenrod;
+  border-color: goldenrod;
+  border-style: groove;
+  border-width: 5px;
   background-color: black;
-  border-radius: 25px;
-  padding: 10px;
   font-size: 30px;
 }
 
 body {
   font-family: monospace;
+  font-size: 30px;
   color: goldenrod;
   border-radius: 25px;
   border-color: goldenrod;
   border-style: groove;
-  border-width: 15px;
-  font-size: 25px;
-  
+  border-width: 10px;
+  margin: 0;
+  padding: 10px;
+  background-color: black;
+}
+
+input::placeholder {
+  font-family: monospace;
+  color: goldenrod;
+  font-size: 30px;
 }
