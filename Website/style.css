@@ -4,17 +4,17 @@
   align-items: center;
 }
 .container img {
-  height: 150px;
-  width: 150px;
+  height: 180px;
+  width: 240px;
   border-style: groove;
   border-color: goldenrod;
   border-width: 20px;
 }
 .middle {
-  font-size: x-large;
+  font-size: 50px;
   font-family: monospace;
   display: flex;
-  gap: 50px;
+  gap: 200px;
   align-items: center;
   margin: auto;
   padding: 60px;
@@ -40,10 +40,6 @@ body {
   margin: 0;
   background-color: black;
 }
-
-.txt1 {
-}
-
 h1 {
   font-size: xx-large;
   font-family: monospace;
