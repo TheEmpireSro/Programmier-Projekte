@@ -40,3 +40,15 @@ body {
   margin: 0;
   background-color: black;
 }
+
+.txt1 {
+}
+
+h1 {
+  font-size: xx-large;
+  font-family: monospace;
+  color: goldenrod;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
