@@ -11,13 +11,13 @@
   border-width: 20px;
 }
 .middle {
-  font-size: 50px;
+  font-size: 30px;
   font-family: monospace;
   display: flex;
-  gap: 200px;
+  gap: 100px;
   align-items: center;
   margin: auto;
-  padding: 60px;
+  padding: 72px;
   background-color: black;
   color: goldenrod;
   border-style: groove;
