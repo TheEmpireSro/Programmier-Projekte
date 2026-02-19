@@ -1,0 +1,54 @@
+.container {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  align-items: center;
+}
+.container img {
+  height: 150px;
+  width: 150px;
+  border-style: groove;
+  border-color: goldenrod;
+  border-width: 20px;
+}
+.middle {
+  font-size: x-large;
+  font-family: monospace;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  margin: auto;
+  padding: 60px;
+  background-color: black;
+  color: goldenrod;
+  border-style: groove;
+  border-color: goldenrod;
+  border-width: 20px;
+}
+a:link {
+  color: goldenrod;
+}
+a:visited {
+  color: goldenrod;
+}
+a:hover {
+  color: turquoise;
+}
+a:active {
+  color: goldenrod;
+}
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.txt1 {
+}
+
+h1 {
+  font-size: xx-large;
+  font-family: monospace;
+  color: goldenrod;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
