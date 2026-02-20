@@ -23,22 +23,13 @@ button {
   background-color: black;
   font-size: 30px;
 }
-
-body {
-  font-family: monospace;
-  font-size: 30px;
-  color: goldenrod;
-  border-radius: 25px;
-  border-color: goldenrod;
-  border-style: groove;
-  border-width: 10px;
-  margin: 0;
-  padding: 10px;
-  background-color: black;
-}
-
 input::placeholder {
   font-family: monospace;
   color: goldenrod;
   font-size: 30px;
+}
+.container2 {
+  border-style: groove;
+  border-width: 20px;
+  border-color: goldenrod;
 }

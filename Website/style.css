@@ -39,6 +39,9 @@ a:active {
 body {
   margin: 0;
   background-color: black;
+  font-size: xx-large;
+  font-family: monospace;
+  color: goldenrod;
 }
 h1 {
   font-size: xx-large;
